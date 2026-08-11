@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
