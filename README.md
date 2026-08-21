@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0485-max-consecutive-ones) |
@@ -57,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
