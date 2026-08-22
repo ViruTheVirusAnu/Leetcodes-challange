@@ -1,18 +1,26 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-
-        int count = 0;
         int n = nums.size();
-
-        for(int i = 0; i < n; i++)
+        
+        for(int start = 0; start < n; start++)
         {
-            if(nums[i] > nums[(i + 1) % n])
-            {
-                count++;
-            }
-        }
+            bool sorted = true;
 
-        return count <= 1;
+            for(int i = 0; i< n-1;i++)
+            {
+                int current = nums[(start+i)%n];
+                int next = nums[(start + i + 1) % n];
+
+                if(current > next)
+                {
+                    sorted = false;
+                    break;
+                }
+            }
+            if(sorted) return true;
+        }
+        return false;
+
     }
 };
