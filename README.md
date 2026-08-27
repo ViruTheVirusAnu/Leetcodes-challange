@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
