@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1078-remove-outermost-parentheses](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/1078-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/1078-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
