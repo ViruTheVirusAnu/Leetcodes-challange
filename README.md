@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0189-rotate-array) |
+| [2032-largest-odd-number-in-string](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/ViruTheVirusAnu/Leetcodes-challange/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
